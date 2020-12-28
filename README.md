@@ -17,7 +17,7 @@ Clone the repo
 git clone https://github.com/DysonMa/JobSearch.git
 ```
 ## Usage
-1. Define the required parameters. `web` can also choose `1111` and `cakeresume`.
+1. Define the required parameters. `web` can also choose `1111` and `cakeresume`. `end_page` means the number of page for crawling.
 ```
 web = '104'
 keyword = 'python'
@@ -28,8 +28,8 @@ sqlite_path = './job.db'
 ```
 start_crawling()
 ```
-歷經6.618713617324829秒
-存檔成功
+歷經6.618713617324829秒<br>
+存檔成功<br>
 3. Show DataFrame
 ```
 df
