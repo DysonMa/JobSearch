@@ -11,6 +11,8 @@ In this project, different from the previous linear execution method, I use an a
 * SQLite
 * asyncio
 * Pandas
+* pyquery
+* requests
 
 ## Getting Started
 ### Installation
