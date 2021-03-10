@@ -19,7 +19,7 @@ Clone the repo
 git clone https://github.com/DysonMa/JobSearch.git
 ```
 ## Usage
-1. Define the required parameters. `web` can also choose `1111` and `cakeresume`. `end_page` means the number of page for crawling.
+1. Define the required parameters. `web` can also choose `104`, `1111` and `cakeresume`. `end_page` means the number of page for crawling.
 ```
 web = '104'
 keyword = 'python'
