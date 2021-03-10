@@ -1,3 +1,8 @@
+# job-search
+
+* [繁體中文 README.md(Traditional Chinese README.md)](https://github.com/DysonMa/JobSearch/blob/master/README-zh-TW.md)
+* Using SQLite, asyncio, pandas, pyquery, requests to build a crawler and deploy on Heroku with connected to Line ChatBot.
+
 ## About
 
 104, 1111 and cakeresume are the most frequently used job search websites in Taiwan.
