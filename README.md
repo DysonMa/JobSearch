@@ -9,6 +9,8 @@ In this project, different from the previous linear execution method, I use an a
 ### Built With
 * python
 * SQLite
+* asyncio
+* Pandas
 
 ## Getting Started
 ### Installation
