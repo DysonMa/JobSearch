@@ -8,13 +8,13 @@
 104, 1111 和 cakeresume 是台灣求職最常用的網站
 
 104:
-![104-demo](https://github.com/DysonMa/JobSearch/static/images/104.PNG)
+![104-demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/104.PNG)
 
 1111:
-![1111-demo](https://github.com/DysonMa/JobSearch/static/images/1111.PNG)
+![1111-demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/1111.PNG)
 
 cakeresume:
-![cakeresume-demo](https://github.com/DysonMa/JobSearch/static/images/cakeresume.PNG)
+![cakeresume-demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/cakeresume.PNG)
 
 現今，求職的資訊非常龐大且瞬息萬變，利用爬蟲的技術來快速地蒐集求職資訊是有相當有效率的方法。 除此之外，將爬取下來的資料存到資料庫也有利於往後查詢的便利性。
 
