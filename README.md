@@ -7,13 +7,10 @@
 
 104, 1111 and cakeresume are the most frequently used job search websites in Taiwan.
 
-104:
 ![104-demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/104.PNG)
 
-1111:
 ![1111-demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/1111.PNG)
 
-cakeresume:
 ![cakeresume-demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/cakeresume.PNG)
 
 Nowadays, job search information are huge and change rapidly. It is always effective and necessary to quickly collect job search information through crawlers. Besides, storing the crawled data into the database can be search at any time.
@@ -53,6 +50,8 @@ start_crawling()
 ```
 df
 ```
+
+![demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/demo.PNG)
 
 ## License
 Distributed under the MIT License.
