@@ -53,9 +53,9 @@ df
 
 ![demo](https://github.com/DysonMa/JobSearch/blob/master/static/images/demo.PNG)
 
-## License
+## 憑證
 Distributed under the MIT License.
 
-## Contact
+## 聯絡方式
 Dyson Ma - madihsiang@gmail.com
 Project Link: https://github.com/DysonMa/JobSearch
